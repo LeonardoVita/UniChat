@@ -32,7 +32,7 @@ Utilzando o apk do [Firebase](https://firebase.google.com/?gclid=CjwKCAiAg9rxBRA
    ![Tela-novo-grupo](https://user-images.githubusercontent.com/43863949/73607542-105a8480-4596-11ea-8144-26bcc5ec2d43.jpeg)
    
  #### Tela do Chat
-   ![Tela-chat1](https://user-images.githubusercontent.com/43863949/73607544-12244800-4596-11ea-9616-ebdf65d94638.jpeg)![Tela-chat2](https://user-images.githubusercontent.com/43863949/73607545-13ee0b80-4596-11ea-8685-d89891a9775f.jpeg)
+   ![Tela-chat1](https://user-images.githubusercontent.com/43863949/73607544-12244800-4596-11ea-9616-ebdf65d94638.jpeg)          ----------------------       ![Tela-chat2](https://user-images.githubusercontent.com/43863949/73607545-13ee0b80-4596-11ea-8685-d89891a9775f.jpeg)
 
    
  
