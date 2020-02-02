@@ -21,7 +21,7 @@ Utilzando o apk do [Firebase](https://firebase.google.com/?gclid=CjwKCAiAg9rxBRA
  ### Telas
  
  - Tela de login
-   ![WhatsApp Image 2020-02-02 at 7 03 47 AM](https://user-images.githubusercontent.com/43863949/73607434-b1e0d680-4594-11ea-87c0-a26fa00fe337.jpeg)
+   <img src="https://user-images.githubusercontent.com/43863949/73607502-7abef500-4595-11ea-99df-ffb3e5990cdd.jpeg" height="700" width="300">
  - Tela de grupos
  
  - Tela de novo grupo
